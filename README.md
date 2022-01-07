@@ -1,3 +1,3 @@
 # Fixed-Income-Securities
 
-Some knowledges related to fixed income securities will be uploaded here.
+I will share my summary documents for papers and books related to fixed income securities here.
